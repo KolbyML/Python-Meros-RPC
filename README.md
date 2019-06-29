@@ -1,3 +1,3 @@
-# Python-Ember-RPC (EmberRPC)
+# Python-Meros-RPC (MerosRPC)
 
-A Nim Library for connecting to the Ember RPC.
+A Python Library for connecting to the Meros RPC.
